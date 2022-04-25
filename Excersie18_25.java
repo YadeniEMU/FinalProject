@@ -1,5 +1,16 @@
 import java.util.Scanner;
-
+//Excersie 18_25
+/**
+ * Write a recursive method to print all the permutations of a
+string. For example, for the string abc, the permutation is
+abc
+acb
+bac
+bca
+cab
+cba
+ * 
+ */
 // the complexity of recursion really depends on n. Recursion can be the best way to solve a problem and also can be the worst way to solve to solve a problem. It really depends on n, so o(n)
 public class Excersie18_25
 {
